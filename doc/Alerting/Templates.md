@@ -58,6 +58,7 @@ Placeholders are special variables that if used within the template will be repl
 - State: `$alert->state`
 - Severity: `$alert->severity`
 - Rule: `$alert->rule`
+- Rule-ID: `$alert->rule_id`
 - Rule-Name: `$alert->name`
 - Timestamp: `$alert->timestamp`
 - Transport name: `$alert->transport`
